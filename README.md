@@ -9,7 +9,8 @@ HWP·HWPX·DOCX·PDF·PPTX·XLSX 같은 문서를 Claude가 마크다운으로 �
 
 ## 받기와 설치
 
-1. 오른쪽 **Releases**에서 `doc-to-markdown-0.2.0-public.zip`을 받습니다. 압축은 풀지 않습니다.
+1. [doc-to-markdown-0.2.0-public.zip 받기](https://github.com/10baggerbrain-code/doc-to-markdown/raw/main/dist/doc-to-markdown-0.2.0-public.zip) (`dist/` 폴더). 압축은 풀지 않습니다.
+   SHA-256: `7ce3437087f103d206f14be71c90a99c5dd3f38ba3449e4a4e0d99564bc310f3`
 2. Claude에서 **사용자 정의(Customize) → 스킬(Skills) → + → 스킬 만들기 → 스킬 업로드**로 ZIP을 올립니다.
 3. 켠 뒤 "이 문서들 마크다운으로 바꿔 줘"처럼 말하면 됩니다.
 
